@@ -19,3 +19,11 @@ ul{
     display: flex;
     list-style-type: none;
 }
+
+#youyi {
+    display: inline-flex;
+    height: 50vh;
+    float: right;
+    padding: auto;
+}
+
